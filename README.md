@@ -1,1 +1,1 @@
-Data cleaning and explotary data analysis on diwali sales data data using python
+Data cleaning and explotary data analysis on diwali sales data  using python
